@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "checkedAt": "2026-11-01",
+  "packs": {
+    "combat": {
+      "title": "Combat FX Free",
+      "author": "heyheythere",
+      "url": "https://heyheythere.itch.io/combat-fx-free",
+      "license": "CC-BY-4.0",
+      "licenseFile": "licenses/combat-fx.txt"
+    },
+    "particles": {
+      "title": "Particle Pack",
+      "author": "Kenney",
+      "url": "https://kenney.nl/assets/particle-pack",
+      "license": "CC0-1.0",
+      "licenseFile": "licenses/kenney-particles.txt"
+    },
+    "impact": {
+      "title": "Impact Sounds",
+      "author": "Kenney",
+      "url": "https://kenney.nl/assets/impact-sounds",
+      "license": "CC0-1.0",
+      "licenseFile": "licenses/kenney-impact.txt"
+    },
+    "rpg": {
+      "title": "RPG Audio",
+      "author": "Kenney",
+      "url": "https://kenney.nl/assets/rpg-audio",
+      "license": "CC0-1.0",
+      "licenseFile": "licenses/kenney-rpg.txt"
+    },
+    "brackeys": {
+      "title": "Brackeys VFX Bundle",
+      "author": "CodeManu; repackaged by Brackeys",
+      "url": "https://brackeysgames.itch.io/brackeys-vfx-bundle",
+      "license": "CC0-1.0",
+      "licenseFile": "licenses/brackeys-vfx.txt"
+    },
+    "voicebosch": {
+      "title": "DRAGON - Announcer Audio Pack",
+      "author": "VoiceBosch",
+      "url": "https://voicebosch.itch.io/dragon-announcer-audio-pack",
+      "license": "CC-BY-SA-4.0",
+      "licenseFile": "licenses/voicebosch-dragon.txt"
+    },
+    "fighterVoice": {
+      "title": "Voiceover Pack: Fighter",
+      "author": "Kenney",
+      "url": "https://kenney.nl/assets/voiceover-pack-fighter",
+      "license": "CC0-1.0",
+      "licenseFile": "licenses/kenney-fighter-voice.txt"
+    }
+  },
+  "files": [
+    {
+      "file": "vfx/white_hit.png",
+      "pack": "combat",
+      "sourceFile": "combat-fx/combat-fx-free/sheets/256/white/white_hit.png",
+      "bytes": 113678,
+      "sha256": "26758382808d02a1286e5116ada6e74c54a2cd6f7f6339637bfe93df7e63f9ad"
+    },
+    {
+      "file": "vfx/white_slash.png",
+      "pack": "combat",
+      "sourceFile": "combat-fx/combat-fx-free/sheets/256/white/white_slash.png",
+      "bytes": 121323,
+      "sha256": "3d86f55e8946a4dd8e19ced6be74bdba1449ea309c7ecb22783957a3e721f7a9"
+    },
+    {
+      "file": "vfx/white_spark.png",
+      "pack": "combat",
+      "sourceFile": "combat-fx/combat-fx-free/sheets/256/white/white_spark.png",
+      "bytes": 111493,
+      "sha256": "81d3ae3c6f0b5008c6f6804adac642f6fcb64d32b530eacef0a7f08ab5ce0d05"
+    },
+    {
+      "file": "vfx/gold_crit.png",
+      "pack": "combat",
+      "sourceFile": "combat-fx/combat-fx-free/sheets/256/gold/gold_crit.png",
+      "bytes": 226053,
+      "sha256": "63144e5a0027b820b5b5fd11de8c788cafa60a36849f32c9852bb2093440cb79"
+    },
+    {
+      "file": "vfx/electric_ring_6x5.png",
+      "pack": "brackeys",
+      "sourceFile": "electric_ring_6x5.png",
+      "bytes": 29128,
+      "sha256": "df900af9fe00b24f1968913f69596540b0f56422db282cdd13295b9d73c79f28"
+    },
+    {
+      "file": "vfx/fire_ring_6x5.png",
+      "pack": "brackeys",
+      "sourceFile": "fire_ring_6x5.png",
+      "bytes": 64706,
+      "sha256": "e6eee268e1fb45d28cae252f629b29a3ba9c3221208a07310617cd835541b5ca"
+    },
+    {
+      "file": "vfx/smoke_01.png",
+      "pack": "particles",
+      "sourceFile": "particles/PNG (Transparent)/smoke_01.png",
+      "bytes": 97452,
+      "sha256": "e8724c219e8d35859167fc0a7e207e13c72ccf0c29704909b9bb3d3dc71c6cf7"
+    },
+    {
+      "file": "vfx/flare_01.png",
+      "pack": "particles",
+      "sourceFile": "particles/PNG (Transparent)/flare_01.png",
+      "bytes": 42886,
+      "sha256": "254f5bd4f0548612bf29305d27899efdee8cb8d8306292761ebbddebd3e57935"
+    },
+    {
+      "file": "audio/impactPunch_medium_000.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/impactPunch_medium_000.ogg",
+      "bytes": 8800,
+      "sha256": "486988aa2d6440ffc4c62a0e8ccf3c23673ba84424bd4723378d451b7255eb5c"
+    },
+    {
+      "file": "audio/impactPunch_medium_001.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/impactPunch_medium_001.ogg",
+      "bytes": 8701,
+      "sha256": "e71d23abcc3f10d9d6bc9615b2a431fff70b12333a5fcdd9964457564ace4349"
+    },
+    {
+      "file": "audio/impactPunch_heavy_000.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/impactPunch_heavy_000.ogg",
+      "bytes": 11617,
+      "sha256": "b33a8f14068aec24ec69ba85e5e87fdc41228975f6a1a3e44a6e7d6fc3d9f8d8"
+    },
+    {
+      "file": "audio/impactPunch_heavy_001.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/impactPunch_heavy_001.ogg",
+      "bytes": 10861,
+      "sha256": "f92f5cb6ba4ff2766497292ffd90865654317eeca976f5652e0708dbdcdc0dd9"
+    },
+    {
+      "file": "audio/impactMetal_light_001.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/impactMetal_light_001.ogg",
+      "bytes": 6967,
+      "sha256": "fba69c467ddd85da7b1d82e259f936b876d9ba6a3d6f1b24bdd10468e46bfe08"
+    },
+    {
+      "file": "audio/impactSoft_heavy_001.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/impactSoft_heavy_001.ogg",
+      "bytes": 6689,
+      "sha256": "4d0096364ba9e46119d2ff6df493fdc101bd2e1efae061da5e5f77a53b3fdcb6"
+    },
+    {
+      "file": "audio/footstep_concrete_000.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/footstep_concrete_000.ogg",
+      "bytes": 5808,
+      "sha256": "d7267e183067757c92c169de2a379abea592cfca6b39bb2e8feea15221ad79fe"
+    },
+    {
+      "file": "audio/footstep_concrete_001.ogg",
+      "pack": "impact",
+      "sourceFile": "impact/Audio/footstep_concrete_001.ogg",
+      "bytes": 6308,
+      "sha256": "507a75eb19b897087855a3be3cf11a12d7fa37d143ad535eeebe0b8031c7325d"
+    },
+    {
+      "file": "audio/knifeSlice.ogg",
+      "pack": "rpg",
+      "sourceFile": "rpg/Audio/knifeSlice.ogg",
+      "bytes": 15532,
+      "sha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f"
+    },
+    {
+      "file": "audio/knifeSlice2.ogg",
+      "pack": "rpg",
+      "sourceFile": "rpg/Audio/knifeSlice2.ogg",
+      "bytes": 15099,
+      "sha256": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def"
+    },
+    {
+      "file": "audio/cloth3.ogg",
+      "pack": "rpg",
+      "sourceFile": "rpg/Audio/cloth3.ogg",
+      "bytes": 12432,
+      "sha256": "a48632d17a4f1416541d261a32a31612e01267144c407fa3ecab3ff410f0085b"
+    },
+    {
+      "file": "audio/announcer-round-1.ogg",
+      "pack": "voicebosch",
+      "sourceFile": "09. First Round.wav",
+      "role": "announcer",
+      "duration": 1.446984126984127,
+      "bytes": 16285,
+      "sha256": "ec378dc022e5ab2dbb7d0d1ff30cd4e342205f38f8c9cfafacee62e17200254f",
+      "sourceSha256": "e720d839b0e6c378f307250e1ddad83c6ce07a550c56338cd87ccb929fd7e8dd",
+      "conversion": "FFmpeg 4.1, outer silence trimmed at -50dB with 0.08s/0.10s margins, stereo to mono, libvorbis quality 4; natural pitch and complete spoken content retained"
+    },
+    {
+      "file": "audio/announcer-round-2.ogg",
+      "pack": "voicebosch",
+      "sourceFile": "10. Second Round.wav",
+      "role": "announcer",
+      "duration": 1.6212471655328797,
+      "bytes": 17801,
+      "sha256": "ed06fee6c8bbdc438ec932f603c081f5a391deaee89feaa80a07346eab9b95a0",
+      "sourceSha256": "f97ea0ac7eaf9da68e50643dcfb9168c8607bb59e8142103670b2d522dd4b242",
+      "conversion": "FFmpeg 4.1, outer silence trimmed at -50dB with 0.08s/0.10s margins, stereo to mono, libvorbis quality 4; natural pitch and complete spoken content retained"
+    },
+    {
+      "file": "audio/announcer-round-3.ogg",
+      "pack": "voicebosch",
+      "sourceFile": "11. Third Round.wav",
+      "role": "announcer",
+      "duration": 1.4237414965986395,
+      "bytes": 16018,
+      "sha256": "f017199fe7d946eea3a37294a0690116b3e9d921927a2e876634061070a01c67",
+      "sourceSha256": "7a58cfc60e4368aaa93dec96700f2761928b434e4a73645761bad4782004fc9a",
+      "conversion": "FFmpeg 4.1, outer silence trimmed at -50dB with 0.08s/0.10s margins, stereo to mono, libvorbis quality 4; natural pitch and complete spoken content retained"
+    },
+    {
+      "file": "audio/announcer-fight.ogg",
+      "pack": "voicebosch",
+      "sourceFile": "02. Fight.wav",
+      "role": "announcer",
+      "duration": 0.9299092970521542,
+      "bytes": 11957,
+      "sha256": "d1814832948734800f50e5961c6235ec1fb4e23a133df9f792b8b23a4435b615",
+      "sourceSha256": "6330360d750f18b446a8c81f07bd22a0cdbb72a8e67817b0b9c84175eb787aee",
+      "conversion": "FFmpeg 4.1, outer silence trimmed at -50dB with 0.08s/0.10s margins, stereo to mono, libvorbis quality 4; natural pitch and complete spoken content retained"
+    },
+    {
+      "file": "audio/announcer-ko.ogg",
+      "pack": "voicebosch",
+      "sourceFile": "17. KO.wav",
+      "role": "announcer",
+      "duration": 1.3645804988662131,
+      "bytes": 15409,
+      "sha256": "de018f6332048859beacfacf7b050d280cba67c80b5aa6698d961c51476401bb",
+      "sourceSha256": "9e749db348d34ec4099bd464b5b8b3dd2cab115157b0c51f5581fdd46d0694ca",
+      "conversion": "FFmpeg 4.1, outer silence trimmed at -50dB with 0.08s/0.10s margins, stereo to mono, libvorbis quality 4; natural pitch and complete spoken content retained"
+    },
+    {
+      "file": "audio/announcer-time.ogg",
+      "pack": "fighterVoice",
+      "sourceFile": "Audio/time.ogg",
+      "role": "announcer",
+      "duration": 1.1612698412698412,
+      "bytes": 16059,
+      "sha256": "648013cc8f86b0404b2fe23a24c252bf567f7b88ce8305c4580ad50b7b3532eb"
+    },
+    {
+      "file": "audio/announcer-tie.ogg",
+      "pack": "fighterVoice",
+      "sourceFile": "Audio/tie.ogg",
+      "role": "announcer",
+      "duration": 1.107437641723356,
+      "bytes": 15534,
+      "sha256": "6a7619c14a021d9a69092fd891231d2d4ab15076135ff1404bc6216ae728ae97"
+    }
+  ],
+  "totalMediaBytes": 1024596
+}

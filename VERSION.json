@@ -1,0 +1,20 @@
+{
+  "version": "V34-CAMINHADA-APROVADA",
+  "source": "https://joguecronos.com.br/assets/fighters/",
+  "retrievedOn": "2026-11-05",
+  "indexSha256": "bb743cbc8eed5ef0fd21dc1051b11907d098155ebcad4f10f5c06892a2e47f6c",
+  "resourceCount": 222,
+  "repositorySource": "https://github.com/tiagodk/cronos",
+  "archiveSource": "cronos-main.zip",
+  "repositoryComparedOn": "2026-11-05",
+  "comparison": {
+    "identicalRuntimeFiles": 222,
+    "changedRuntimeFiles": 0,
+    "additionalFiles": [
+      "asset-manifest.json"
+    ]
+  },
+  "verification": {
+    "nodeTestsPassed": 61
+  }
+}

@@ -1,0 +1,28 @@
+Voiceover Pack: Fighter by Kenney
+Source: https://kenney.nl/assets/voiceover-pack-fighter
+Selected original files: Audio/time.ogg and Audio/tie.ogg, renamed with announcer- prefix. Audio bytes are unchanged.
+Retrieved 2026-11-01.
+
+Original package license follows:
+
+
+
+	Voiceover Pack: Fighter
+
+	by  Kenney Vleugels (Kenney.nl)
+
+			------------------------------
+
+	License (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these assets in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Request:  http://request.kenney.nl
+
+	Follow on Twitter for updates:
+	@KenneyNL

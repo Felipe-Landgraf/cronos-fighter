@@ -1,0 +1,10 @@
+Brackeys VFX Bundle
+Original pre-drawn spritesheets: CodeManu. Repackaged by Brackeys.
+Source: https://brackeysgames.itch.io/brackeys-vfx-bundle
+Selected files obtained from the official Brackeys/vfx-in-godot repository:
+https://github.com/Brackeys/vfx-in-godot/tree/main/vfx/brackeys_particle_bundle/predrawn
+
+Publisher license, verified 2026-11-01: Creative Commons Zero (CC0).
+https://creativecommons.org/publicdomain/zero/1.0/
+The publisher permits distribution, remixing, adaptation and commercial use; attribution is not required.
+This notice records the license stated on the publisher page; it does not replace the CC0 legal instrument.

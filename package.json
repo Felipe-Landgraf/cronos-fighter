@@ -1,0 +1,14 @@
+{
+  "name": "cronos-fighter",
+  "version": "34.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jogo de luta histórico para navegador, desenvolvido por Felipe Landgraf",
+  "scripts": {
+    "start": "node tools/start.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
